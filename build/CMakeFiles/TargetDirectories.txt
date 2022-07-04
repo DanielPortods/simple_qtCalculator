@@ -1,0 +1,4 @@
+/home/daniel/Repos/simple_qtCalculator/build/CMakeFiles/simple_qtCalculator.dir
+/home/daniel/Repos/simple_qtCalculator/build/CMakeFiles/edit_cache.dir
+/home/daniel/Repos/simple_qtCalculator/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/Repos/simple_qtCalculator/build/CMakeFiles/simple_qtCalculator_autogen.dir
