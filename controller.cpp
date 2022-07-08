@@ -18,7 +18,7 @@ int Controller::verify(string exp){
 
     if(sz == 0) return 1;
 
-    for (int i=0; i<sz; i++){
+    for (size_t i=0; i<sz; i++){
         if(exp[i]==','){
             if(i==0 || i==sz-1) return 1;
             if(!(isdigit(exp[i-1]) || isdigit(exp[i+1]))) return 1;
